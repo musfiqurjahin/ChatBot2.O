@@ -1,6 +1,5 @@
 //style element
 const style = document.createElement('style');
-
 // CSS code as string
 style.innerHTML = `
  /* Basics */
